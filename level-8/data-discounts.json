@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Black Friday",
+        "description": "...",
+        "rate": 49.99
+    },
+    {
+        "name": "Winter Sale",
+        "description": "...",
+        "rate": 19.99 
+    },
+    {
+        "name": "Sping Sale",
+        "description": "...",
+        "rate": 9.99 
+    },
+    {
+        "name": "Summer Sale",
+        "description": "...",
+        "rate": 9.99 
+    }
+]
